@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE cateneMontuose SYSTEM "ejercicio3.dtd">
+ <cateneMontuose>
+       <catenaMontuosa>
+         <monte>
+                <nome>Monte Olimpus</nome>
+                <regione>Rift Valley</regione>
+                <altezza unitaMisura="metri">7200</altezza>
+         </monte>
+      </catenaMontuosa>
+      <catenaMontuosa>
+          <monte>
+              <nome>Rosa</nome>
+          </monte>
+      </catenaMontuosa>
+  </cateneMontuose>

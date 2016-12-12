@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE lettera SYSTEM "ejercicio2.dtd">
+ <lettera>
+    Gentile<cliente>tal dei tali</cliente>,
+    la imformiamo che i seguenti articoli da lei ordinati non sono piu disponibili a maggazzino:
+    <ordine num="1234">
+        <articolo>
+            <codice>1</codice>
+            <descr>articolo 1</descr>
+        </articolo>
+        <articolo>
+            <codice>5</codice>
+            <descr>articolo 5</descr>
+        </articolo>
+    </ordine>
+    Cordiali saluti,
+    <responsable><tit>dr.</tit>Mario Rossi</responsable>
+ </lettera>

@@ -1,0 +1,11 @@
+<!ELEMENT lettera (#PCDATA|cliente|ordine|responsable)*>
+<!ELEMENT cliente (#PCDATA)>
+<!ELEMENT ordine (articolo+)>
+<!ATTLIST ordine num CDATA #REQUIRED>
+ <!ELEMENT articolo (codice, descr)>
+       <!ELEMENT codice (#PCDATA)>
+       <!ELEMENT descr (#PCDATA)>
+<!ELEMENT responsable (#PCDATA| tit)*>		      
+<!ELEMENT tit (#PCDATA)>
+
+

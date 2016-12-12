@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE stock SYSTEM "ejercicio4.dtd">
+ <stock>
+      <new-car>
+          <model> Opel Astra</model>
+          <price>13000</price>
+      </new-car>
+      <used-car>
+          <model>Daewo Tacuma</model>
+          <price>6000</price>
+          <mileage>1200</mileage>
+          <condition>Good</condition>
+      </used-car>
+ </stock>

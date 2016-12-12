@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding= "UTF-8"?>
+
+<cookbook>
+
+ <recipe name="Hamburguesa Mediterranea">
+   <ingredientes name="tomate"></ingredientes>
+   <ingredientes name="cebolla"></ingredientes>
+   <ingredientes name="pimiento rojo"></ingredientes>
+   <ingredientes name="aceitunas verdes (sin hueso)"></ingredientes>
+   <ingredientes name="pimienta"></ingredientes>
+   <ingredientes name="eneldo"></ingredientes>
+   <ingredientes name="romero"></ingredientes>
+   <ingredientes name="oregano"></ingredientes>
+   <ingredientes name="tomillo"></ingredientes>
+   <ingredientes name="queso"></ingredientes>
+   <ingredientes name="pepinillo agridulce"></ingredientes>
+   <ingredientes name="huevo"></ingredientes>
+   <ingredientes name="cebolla caramelizada"></ingredientes>
+   <ingredientes name="salsa BibBurger Chovi"></ingredientes>
+   <ingredientes name="carne"></ingredientes>
+     <steps name="Triturar todos los ingredientes"></steps>
+     <steps name="Picar las Aceitunas Verdes"></steps>
+     <steps name="Asar en Sarten las Cebolletas"></steps>
+</recipe>
+<recipe name="Arroz con Almejas">
+   <ingredientes name="1 Litro y medio de Caldo de Pescado"></ingredientes>
+   <ingredientes name="4 Dientes de Ajo"></ingredientes>
+   <ingredientes name="1 Pimiento Rojo"></ingredientes>
+   <ingredientes name="1 tomate"></ingredientes>
+   <ingredientes name="1 cebolla"></ingredientes>
+   <ingredientes name="0,5 De Almejas"></ingredientes>
+   <ingredientes name="400 Gramos de Arroz"></ingredientes>
+   <ingredientes name="2 Decilitros de Aceito de Oliva Virgen"></ingredientes>
+   <ingredientes name="Perejil"></ingredientes>
+   <ingredientes name="Sal"></ingredientes>
+     <steps name="Sofreir a fuego lento la cebolla,ajos,pimiento y tomate"></steps>
+     <steps name="Limpiamos las Almejas"></steps>
+     <steps name="Mezclar el flujo de las almejas en el caldo"></steps>
+</recipe>
+
+ </cookbook>

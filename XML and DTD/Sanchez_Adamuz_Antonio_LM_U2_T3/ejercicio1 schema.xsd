@@ -1,0 +1,9 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+ <xsd:element name="Document">
+   <xsd:complextype>
+     <xsd:sequence>
+      <xsd:element name="Member" MinOccurs="1" maxOccurs="unbounded">
+       <xsd:complextype>
+        <xsd:sequence>
+          <xsd:element name="name" type="xs_string"/>
+           <xsd:element 

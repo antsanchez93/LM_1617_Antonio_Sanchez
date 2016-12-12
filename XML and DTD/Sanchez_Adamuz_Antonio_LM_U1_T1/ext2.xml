@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Busroute id="98" name="Ruta Urbana De Sevilla Centro ">
+
+  <schedule hour="7:55 - 8:30" number="152"></schedule>
+  <schedule hour="17:45 - 18-10" number="153"></schedule>
+  <schedule hour="12:58 - 13:36" number="160-C"></schedule>
+  <schedule hour="19:48 - 20:20" number="142-B"></schedule>
+  <schedule hour="21:40 - 22:26" number="005"></schedule>
+
+   <stop number="152" name="Parque De Los Principes" Address="Los Remedios"></stop>
+   <stop number="153" name="Puerta de Jerez" Address="avenida de la constitucion"></stop>
+   <stop number="160-C" name="San Bernardo" Address="Nervion"></stop>
+   <stop number="142-B" name="Plaza De Cuba" Address="Avenida de la Republica Argentina"></stop>
+   <stop number="005" name="Blas Infante" Address="Avenida de Blas Infante"></stop>
+
+</Busroute>

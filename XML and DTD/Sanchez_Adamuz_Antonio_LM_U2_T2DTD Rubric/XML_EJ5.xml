@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE games SYSTEM "ejercicio5.dtd">
+   <games>
+      <game score="5-3">
+             <home-team>Venecia</home-team>
+             <ex-team>Lazio</ex-team>
+       <scores>
+              <score time="7">
+                  <player>Cesare</player>
+              </score>
+              <score time="34" type="penalty">
+                  <player>Bucellatti</player>
+              </score>
+      </scores>
+      <yellows>
+            <player>Ghirga</player>
+            <player>Abacchio</player>
+            <player>Fugo</player>
+      </yellows>
+      <reds>
+            <player>Giovanna</player>
+      </reds>
+   </game>
+</games>
