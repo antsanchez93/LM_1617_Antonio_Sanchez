@@ -1,0 +1,92 @@
+<!DOCTYPE>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise2</title>
+    <link rel="stylesheet" href="">
+</head>
+<style>
+  table{
+            border: solid black 1px;
+            border-collapse: collapse;
+  }
+        #c1{
+            background-color: aqua;
+  }
+        #Final{
+            text-align: center;
+  }
+        #bb1{
+            background-color: aqua;
+            color: white;
+  }
+        #bb2{
+            background-color: aqua;
+            color: white;
+  }
+    </style>
+
+<body>
+    <table  align="center" >
+        <tr id="c1">
+        <td><b>Event Planner<b></td>
+        <td><b>More Actions<b></td>
+        <td></td>
+        <td></td>
+        </tr>
+        <tr>
+        <td><b>Event Name</b></td>
+        <td><b><form><input type="text" name="ename"></form></b></td>
+        <td><b>Requeriments</b></td>
+        <td><b><form><input type="checkbox" name="req1" value="Staff">Staffing<br><input type="checkbox" name="req" value="Catering">Catering</b></form><b><input type="checkbox" name="req3" value="Sec">Security<br></td>
+        </tr>
+        <tr>
+        <td><b>Event Coordinator</b></td>
+        <td><b><form><input type="text" name="ename"></b></form></td>
+        <td><b>Event Start Date</b></td>
+        <td><b><form><input type="text" name="evstart"></b></form></td>
+        </tr>
+        <tr>
+        <td><b>Email</b></td>
+        <td><b><form><input type="text" name="ename"></b></form></td>
+        <td><b>Event End Date</b></td>
+        <td><b><form><input type="text" name="evend"></b></form></td>
+        </tr>
+        <tr>
+        <td><b><form>Event Type</b></form></td>
+        <td><b><select name="events"><option value="concert" selected>Concert</option><option value="Awards">Awards</option></b></select></td>
+        <td><b>Location</b></td>
+        <td><b><textarea name="Loc" rows="10" cols="30"></b></textarea></td>
+        </tr>
+        <tr>
+        <td><b>Total members</b></td>
+        <td><b><form><select name="events"><option value="Select" selected>-Select-</option><option value="1-20">1-20</option></select></form></b></td>
+        <td><b>City</b></td>
+        <td><b><form><input type="text" name="city"></b></form></td>
+        </tr>
+        <tr>
+        <td><b>Event Description</b></td>
+        <td><b><form><input type="text" name="description"></b></form></td>
+        <td><b>State</b></td>
+        <td><b><form><select name="State"><option value="Select" selected>-Select-</option><option value="California">California</option></select></form></b></td>
+        </tr>
+        <tr>
+        <td><b>Does your program involve any outside activity?</b></td>
+        <td><b><form><input type="radio" name="Y/N" value="yes" checked> Yes<br><input type="radio" name="Y/N" value="no">No<br></form></b></td>
+        <td><b>Country</b></td>
+        <td><b><form><select name="Country"><option value="Select" selected>-Select-</option><option value="Uganda">Uganda</option></select></form></b></td>
+        </tr>
+        <tr>
+        <td><b>Cost Per Person</b></td>
+       <td><form><input type="text" name="CPP"></form></td>
+        <td><b>ATTACH DETAILED ITINERARY</b></td>
+        <td><form><input type="text" name="CPP"><input type="button" name="browse" value="Browse..."></form></td>
+        </tr>
+        <tr>
+      <th id="Final" colspan="4"><form><input type="button" id="bb1" value="Submit"><input type="button" id="bb2" value="Reset"></form></th>
+       </tr>
+
+    </table>
+</body>
+</html>
